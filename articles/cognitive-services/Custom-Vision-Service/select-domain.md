@@ -1,7 +1,7 @@
 ---
 title: "Select appropriate domain for your project"
 titleSuffix: Azure Cognitive Services
-description: This article will show you how to select a domain for your project in the CUstom Vision Service.
+description: This article will show you how to select a domain for your project in the Custom Vision Service.
 services: cognitive-services
 author: 
 manager: 
@@ -9,7 +9,7 @@ manager:
 ms.service: cognitive-services
 ms.subservice: custom-vision
 ms.topic: conceptual
-ms.date: 12/05/2019
+ms.date: 02/14/2020
 ms.author: 
 ---
 
